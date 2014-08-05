@@ -21,7 +21,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6">
-					<div style="color:#ffffff;font-size:18px;">Starting an ecommerce Business is hard, running it shouldn't be.</div><br />
+					<div style="color:#ffffff;font-size:25px;">
+Starting an ecommerce business is hard <br />
+running it shouldn't be.
+</div>
+<br />
 					<form class="form-inline" role="form">
 					  <div class="form-group">
 					    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
