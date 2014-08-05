@@ -22,8 +22,8 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<div style="color:#ffffff;font-size:25px;">
-<b>Starting an ecommerce business is hard <br />
-running it shouldn't be.</b>
+Starting an ecommerce business is hard <br />
+running it shouldn't be.
 </div>
 <br />
 					<form class="form-inline" role="form">
@@ -53,31 +53,41 @@ running it shouldn't be.</b>
 		<div class="row mt centered">
 			<div class="col-lg-4">
 				<img src="assets/img/ser01.png" width="180" alt="">
-				<h4>1 - Launch Quickly</h4>
+				<h4>Launch Quickly</h4>
 				<p>Dont reinvent the wheel, we've solved your integration challenges for you.</p>
 			</div><!--/col-lg-4 -->
 
 			<div class="col-lg-4">
 				<img src="assets/img/ser02.png" width="180" alt="">
-				<h4>2 - Flexible and Responsive Site Design</h4>
+				<h4>Flexible and Responsive Site Design</h4>
 				<p>Kaima offers a responsive design out of the box for an optimal user experience across all devices.</p>
 
 			</div><!--/col-lg-4 -->
 
 			<div class="col-lg-4">
 				<img src="assets/img/ser03.png" width="180" alt="">
-				<h4>3 - Grow Your Empire</h4>
+				<h4>Grow Your Empire</h4>
 				<p>Be serious with your dreams. Setup your storefront and start selling your products in 5 minutes.</p>
 
 			</div><!--/col-lg-4 -->
 		</div><!-- /row -->
 	</div><!-- /container -->
 	
-	
-	
-	
-
+<div class="container">
 		<hr>
+		<div class="row centered">
+			<div class="col-lg-6 col-lg-offset-3">
+				<form class="form-inline" role="form">
+				  <div class="form-group">
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
+				  </div>
+				  <button type="submit" class="btn btn-warning btn-lg">Invite Me!</button>
+				</form>					
+			</div>
+			<div class="col-lg-3"></div>
+		</div><!-- /row -->
+
+	</div><!-- /container -->
 		<p class="centered">  2014 &copy Kaima Commerce</p>
 	</div><!-- /container -->
 	
